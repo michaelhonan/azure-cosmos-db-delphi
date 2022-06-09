@@ -1,0 +1,6 @@
+__history/
+node__modules/
+Win32/
+*.user
+*.local
+*.identcache
