@@ -1,5 +1,5 @@
 # azure-cosmos-db-delphi
-Small project showing how to generate the HMAC signature for CosmosDB Authorization
+Small project showing how to generate the HMAC signature for CosmosDB Authorization. Also includes the generation of the RFC 1123 date, required in both the signature and the `x-ms-date` header of your requests.
 
 It took me too long to figure out how to do all this, so here you go. I've tested this solution in XE5, and also the latest Delphi 11.1.
 
